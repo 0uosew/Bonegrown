@@ -1,12 +1,6 @@
-[24268:18996:0206/123910.988:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[24268:5100:0206/123911.062:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[24268:18996:0206/123911.094:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[24268:18996:0206/123916.602:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[22632:2576:0206/123917.995:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3B761EF352E9B4F296B4B985501BE682 will be ignored
-[24268:10480:0206/123918.532:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[24268:18996:0206/123918.663:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[24268:18996:0206/123918.663:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[24268:18996:0206/123918.663:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[24268:18996:0206/123918.663:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[24268:10480:0206/123918.692:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[24268:18996:0206/123949.084:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[21720:18352:0206/132040.121:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21720:24660:0206/132040.162:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21720:18352:0206/132040.185:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21720:18352:0206/132043.025:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[3340:13124:0206/132045.612:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6273A74507501F4D1F75D403F19C7065 will be ignored
+[21720:18352:0206/135444.621:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
