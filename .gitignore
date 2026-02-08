@@ -34,4 +34,61 @@
 #################################
 # Miscellaneous Generated Files #
 #################################
-# ADD AS NEED BE
+# Unreal Engine generated
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Logs
+*.log
+
+# Crash reports
+Saved/Crashes/
+crashinfo-*
+
+# Shader temp files
+*.ush
+*.bin
+####################################
+# Unreal Engine generated folders
+####################################
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+####################################
+# Build & IDE files
+####################################
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.opensdf
+*.sdf
+*.suo
+
+####################################
+# Logs & temp
+####################################
+*.log
+*.tmp
+
+####################################
+# OS junk
+####################################
+.DS_Store
+Thumbs.db
+
+####################################
+# Unreal Marketplace cache
+####################################
+*.uasset.tmp
+
+####################################
+# Crash reports
+####################################
+crashinfo-*
+

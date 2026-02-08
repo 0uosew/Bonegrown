@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [29240:9368:0207/202005.058:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [29240:26968:0207/202005.103:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
 [29240:9368:0207/202005.113:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
@@ -17,3 +18,11 @@
 [29240:25740:0207/202008.199:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
 [29240:24700:0207/202009.557:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [29240:9368:0207/202111.010:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[21720:18352:0206/132040.121:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21720:24660:0206/132040.162:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21720:18352:0206/132040.185:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21720:18352:0206/132043.025:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[3340:13124:0206/132045.612:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6273A74507501F4D1F75D403F19C7065 will be ignored
+[21720:18352:0206/135444.621:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> 4d6e3b3c0397fd8a3fc5b5b91e7a4d5c74947383
