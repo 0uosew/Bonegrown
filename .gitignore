@@ -92,3 +92,16 @@ Thumbs.db
 ####################################
 crashinfo-*
 
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+
+# Web cache / logs
+*.log
+*.old
+
