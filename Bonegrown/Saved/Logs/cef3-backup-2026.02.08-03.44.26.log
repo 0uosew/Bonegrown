@@ -1,0 +1,21 @@
+[9980:24924:0207/194417.872:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9980:25344:0207/194417.913:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9980:24924:0207/194417.923:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9980:24924:0207/194420.189:WARNING:alloy_constrained_window_views_client.cc(77)] No likely focused browser
+[9980:24924:0207/194420.199:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[9980:6936:0207/194420.201:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9980:6936:0207/194420.205:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9980:6936:0207/194420.207:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9980:6936:0207/194420.211:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9980:25344:0207/194420.882:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9980:25344:0207/194420.887:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18072:11504:0207/194421.355:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9C5844357157A182A67B66BB696E6F27 will be ignored
+[9980:24112:0207/194423.120:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[9980:28336:0207/194423.549:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9980:24924:0207/194423.735:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[9980:24924:0207/194423.736:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[9980:24924:0207/194423.736:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[9980:24924:0207/194423.736:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[9980:24112:0207/194423.740:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[9980:24924:0207/194426.405:ERROR:device_event_log_impl.cc(196)] [19:44:26.226] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9980:24924:0207/194426.743:ERROR:device_event_log_impl.cc(196)] [19:44:26.638] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)

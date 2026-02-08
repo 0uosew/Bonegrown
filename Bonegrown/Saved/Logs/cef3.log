@@ -1,0 +1,19 @@
+[29240:9368:0207/202005.058:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29240:26968:0207/202005.103:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[29240:9368:0207/202005.113:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[29240:9368:0207/202007.081:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[29240:26948:0207/202007.082:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29240:26948:0207/202007.085:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29240:26948:0207/202007.087:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29240:26948:0207/202007.089:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29240:26948:0207/202007.537:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29240:26948:0207/202007.539:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15160:22604:0207/202007.709:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C29D886429507C37DFDA4B5263187236 will be ignored
+[29240:25740:0207/202008.083:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[29240:9368:0207/202008.195:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[29240:9368:0207/202008.195:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[29240:9368:0207/202008.195:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[29240:9368:0207/202008.195:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[29240:25740:0207/202008.199:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[29240:24700:0207/202009.557:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\Mason\Desktop\Github\Bonegrown\Bonegrown\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29240:9368:0207/202111.010:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
