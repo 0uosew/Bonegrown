@@ -180,3 +180,4 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Bonegrown/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset
